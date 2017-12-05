@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <login>1@mail.ru</login>
+        <password>123456</password>
+    </user>
+    <user>
+        <login>2@mail.ru</login>
+        <password>123456</password>
+    </user>
+    <user>
+        <login>33@gmail.com</login>
+        <password>111</password>
+    </user>
+    <user>
+        <login>323@ya.ru</login>
+        <password>333222111</password>
+    </user>
+    <user>
+        <login>nick@gmail.com</login>
+        <password>111</password>
+    </user>
+</users>

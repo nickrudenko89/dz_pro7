@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+    <product>
+        <type>Notebook</type>
+        <name>Asus R-series</name>
+        <price>760.33</price>
+        <overview>Asus notebook.</overview>
+    </product>
+    <product>
+        <type>Phone</type>
+        <name>Samsung Galaxy S8</name>
+        <price>1699.99</price>
+        <overview>Mobile phone.</overview>
+    </product>
+    <product>
+        <type>Pen</type>
+        <name>Parker</name>
+        <price>299.99</price>
+        <overview>The pest pen in the world.</overview>
+    </product>
+    <product>
+        <type>Tablet</type>
+        <name>Lenovo Jogo</name>
+        <price>200.00</price>
+        <overview>Simple tablet.</overview>
+    </product>
+</products>
